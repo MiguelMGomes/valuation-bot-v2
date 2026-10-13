@@ -1,0 +1,4 @@
+{
+  "MC.PA": ["KER.PA", "RMS.PA", "CDI.PA", "CFR.SW"],
+  "TTE.PA": ["SHEL.L", "BP.L", "ENI.MI", "REP.MC"]
+}
